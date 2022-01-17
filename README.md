@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @StevenPeraza0301
+- 👀 I’m interested in  programming and web design
+- 🌱 I’m currently learning different programming languages
+- 💞️ I’m looking to collaborate on web development companies
+- 📫 How to reach me steven.gabriel.jimenez@gmail.com 
